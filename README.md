@@ -2,8 +2,8 @@
 read the Design Data Intensive Application(ddia)
 <br>记录阅读ddia相关的笔记
 # 目录
-- [第一部分](part1-chapter1-to-chapter4.md)
-- [第二部分-复制](part2-chapter5.md)
+- [第一部分 单机存储引擎1- 4 章](part1-chapter1-to-chapter4.md)
+- [第二部分-复制和分区, 事务  5-7章](part2-chapter5-to-chapter7.md)
 
 
 # references
